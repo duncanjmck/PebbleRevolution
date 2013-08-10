@@ -1,18 +1,20 @@
-## Revolution watchface
+## Revolution watchface (Inverted)
 
-![Photo](http://d.pr/i/Qe9k+)
+![Photo](http://i.imgur.com/6QbAor1.jpg)
 
-[Video of time animation](http://d.pr/v/nQWY)
 
 Implemented by Douwe Maan.
+
+Modified by Duncan McKenzie.
 
 Envisioned as a watchface by Jean-Noël Mattern (Jnm), who posted it in the ["Watch-face ideas" thread](http://forums.getpebble.com/discussion/comment/3538/#Comment_3538) on the Pebble forums.
 
 Based on the display of the [Freebox Revolution](http://www.free.fr/adsl/freebox-revolution.html), which was designed by Philippe Starck.
 
+Modified to have inverted colours & retaining the DD-MM Date format
+
 ### Download version 1.3
-* [Revolution-1.3.pbw](https://github.com/DouweM/PebbleRevolution/raw/master/releases/Revolution-1.3.pbw)
-* [Revolution-American-1.3.pbw](https://github.com/DouweM/PebbleRevolution/raw/master/releases/Revolution-American-1.3.pbw) (date formatted as MM-DD)
+* [Revolution-Inverted-1.3.pbw](https://github.com/duncanjmck/PebbleRevolution/blob/master/releases/Revolution-Inverted-1.3.pbw)
 
 ## License
 Copyright (c) 2013 [Douwe Maan](http://www.douwemaan.com/)
